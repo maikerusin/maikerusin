@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkwsin&label=Profile%20views&color=0e75b6&style=flat" alt="mkwsin" /> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://mkwsin.github.io/#contacter)
+- 🔭 I’m currently working on [my portfolio in ReactJS](https://mkwsin.github.io)
 
 - 🌱 I’m currently learning **ReactJS, CSS animation, Golang**
 
