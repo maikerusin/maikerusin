@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkwsin&label=Profile%20views&color=0e75b6&style=flat" alt="mkwsin" /> </p>
 
-- 🔭 I’m currently working on [my portfolio in ReactJS](https://mkwsin.github.io)
+- 🔭 I’m currently working on [my portfolio in ReactJS](https://michasin.github.io)
 
 - 🌱 I’m currently learning **ReactJS, CSS animation, Golang**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mkwsin](https://github.com/mkwsin)
+- 👨‍💻 All of my projects are available at [https://github.com/mkwsin](https://github.com/michasin)
 
 - 💬 Ask me about **React, Docker, CSS, C, C#, Java**
 
