@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on some project for @protelcom
 
-- 🔭 Beside Work, I’m also working on [my portfolio in ReactJS](https://michasin.github.io)
+- 🔭 Beside Work, I’m also working on [my portfolio in ReactJS](https://maikerusin.github.io)
 
 - 🌱 I’m currently learning **Django, ReactJS, CSS animation, Golang**
 
-- 👨‍💻 All of my projects are available on [my Github profile](https://github.com/michasin)
+- 👨‍💻 All of my projects are available on [my Github profile](https://github.com/maikerusin)
 
 - 💬 Ask me about **React, Docker, CSS, C, C#, Java**
 
