@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A passionate fullstack developer from Canada</h3>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michasin&label=Profile%20views&color=0e75b6&style=flat" alt="michasin" /> </p>
 
-- 🔭 I’m currently working on [my portfolio in ReactJS](https://michasin.github.io)
+- 🔭 I’m currently working on some project for @protelcom
 
-- 🌱 I’m currently learning **ReactJS, CSS animation, Golang**
+- 🔭 Beside Work, I’m also working on [my portfolio in ReactJS](https://michasin.github.io)
+
+- 🌱 I’m currently learning **Django, ReactJS, CSS animation, Golang**
 
 - 👨‍💻 All of my projects are available on [my Github profile](https://github.com/michasin)
 
 - 💬 Ask me about **React, Docker, CSS, C, C#, Java**
 
 <h3 align="left">Connect with me:</h3>
+- Coming soon..
 <p align="left">
 </p>
 
