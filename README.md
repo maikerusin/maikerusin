@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michasin&label=Profile%20views&color=0e75b6&style=flat" alt="michasin" /> </p>
 
-- 🔭 I’m currently working on some project for @protelcom
+- 🔭 I’m currently working on some project for @protelcom using Figma, React & Django 
 
 - 🔭 Beside Work, I’m also working on [my portfolio in ReactJS](https://maikerusin.github.io)
 
