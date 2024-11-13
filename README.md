@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Django, ReactJS, CSS animation**
 
 - 👨‍💻 All of my projects are available on [my Github profile](https://github.com/maikerusin)
-- 
+  
 <p align="left">
 </p>
 
